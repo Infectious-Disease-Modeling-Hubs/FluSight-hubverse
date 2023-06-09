@@ -1,12 +1,13 @@
 {
     "schema_version": "https://raw.githubusercontent.com/Infectious-Disease-Modeling-Hubs/schemas/main/v1.0.0/admin-schema.json",
-    "name": "Template Forecast Hub",
-    "maintainer": "Consortium of Infectious Disease Modeling Hubs",
+    "name": "US CDC FluSight",
+    "maintainer": "US CDC",
     "contact": {
-        "name": "Joe Bloggs",
-        "email": "j.bloggs@cidmh.com"
+        "name": "Rebecca Borchering",
+        "email": "xhq2@cdc.gov"
     },
-    "repository_url": "https://github.com/Infectious-Disease-Modeling-Hubs/hubTemplate",
-    "file_format": ["csv", "parquet"],
+    "repository_host": "GitHub",
+    "repository_url": "https://github.com/Infectious-Disease-Modeling-Hubs/FluSight-hubverse",
+    "file_format": ["csv"],
     "timezone": "US/Eastern"
 }
